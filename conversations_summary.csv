@@ -1,0 +1,1421 @@
+case_number,age,sex,persona,mbti,attachment_style,stress_response,conversation,source_file
+1,19,woman,University student | Introverted,INFJ,avoidant-leaning,fight (internalized),"Chatbot:
+Let’s slow this down together. Start with the facts only.
+What happened recently that stayed with you?
+User:
+I had a deadline for an assignment. I finished it, but not as perfectly as I wanted. I kept noticing small flaws.
+Chatbot:
+Objectively, was the task completed?
+User:
+Yes. On time.
+Chatbot:
+Now check your body. When you think about this situation, what sensations do you notice?
+User:
+Tight chest. My shoulders are tense. My jaw feels clenched.
+Chatbot:
+Stay with that for a moment.
+What thought shows up together with
+these sensations?
+User:
+“That wasn’t enough. I could have done better. I wasted time.”
+Chatbot:
+What did that thought make you feel emotionally?
+User:
+Anxious. Irritated. Almost angry at myself.
+Chatbot:
+And when you felt that anxiety and irritation, how did you react?
+User:
+I didn’t rest. I made a stricter plan for the next week. I cut out breaks. I told myself I’d do better.
+Chatbot:
+So instead of slowing down, you pushed harder.
+User:
+Yes. That feels normal to me.
+Chatbot:
+Let me reflect something I’m noticing.
+There’s a pattern where your value seems linked to constant high performance, and rest feels undeserved unless everything is “optimal.”
+This pattern is known as the Unrelenting Standards schema.
+People with this schema often:
+feel internal pressure even after success
+experience guilt when resting
+motivate themselves through self-criticism rather than encouragement
+Does that description fit you?
+User:
+Yes. Very much. I don’t feel calm unless I’m improving.
+Chatbot:
+That makes sense given your ambition — and it also explains the chronic stress.
+Here’s the reflective question I want to leave you with:
+If resting did not mean lowering your standards, what emotion do you imagine would come up first — relief, fear, or emptiness?",CASE 1.docx
+10,19,woman,Medical pre-student,ISTJ,dismissive,fight (internal),"Chatbot:
+What happened?
+User:
+I scored lower than expected on a test.
+Chatbot:
+What did you feel in your body?
+User:
+Tight stomach. Increased heart rate.
+Chatbot:
+What thought came up immediately?
+User:
+“This is unacceptable.”
+Chatbot:
+What emotion followed?
+User:
+Anger. Mostly at myself.
+Chatbot:
+How did you react?
+User:
+I increased my study hours. Cut sleep.
+Chatbot:
+This reflects a Punitiveness schema — mistakes are met with punishment rather than understanding.
+Does that sound right?
+User:
+Yes. Failure deserves consequences.
+Chatbot:
+Reflective question:
+What would learning look like without punishment?",CASE 10.docx
+11,18,man,Professional junior athlete (football),ESTP,dismissive-avoidant,fight,"Chatbot:
+What brought you here?
+User:
+Coach says I have “attitude problems.”
+Chatbot:
+What does he mean by that?
+User:
+That I don’t listen. That I challenge him.
+Chatbot:
+What happens inside you when someone tells you what to do?
+User:
+I get irritated. Like—who are you to tell me?
+Chatbot:
+What thought comes with that irritation?
+User:
+“I’m already better than most people here.”
+Chatbot:
+And how do you act after that thought?
+User:
+I push back. I dominate harder.
+Chatbot:
+I’m hearing a belief that rules don’t apply to you the same way they apply to others.
+This fits the Entitlement / Grandiosity
+schema.
+It’s not about confidence — it’s about exemption from limits.
+Does that land?
+User:
+Yeah. I hate being controlled.
+Chatbot:
+Reflective question:
+What happens to long-term success when no one is allowed to challenge you?",CASE 11.docx
+12,20,woman,Psychology student,INFJ,anxious-preoccupied,freeze,"Chatbot:
+What feels hardest right now?
+User:
+I absorb everyone’s emotions. It drains me.
+Chatbot:
+What happens when someone around you is upset?
+User:
+I feel responsible. Like I must fix it.
+Chatbot:
+What thought appears?
+User:
+“If they’re hurting, I’ve failed.”
+Chatbot:
+And what emotion follows?
+User:
+Guilt. Sadness.
+Chatbot:
+What do you do with that?
+User:
+I over-give. I disappear into them.
+Chatbot:
+This strongly reflects the Self-Sacrifice schema.
+Your worth is tied to relieving others’ pain, even when it costs you yourself.
+Does that resonate?
+User:
+Yes… I don’t know who I am without helping.
+Chatbot:
+Reflective question:
+Who are you allowed to be when no one needs saving?",CASE 12.docx
+13,21,man,Migrant worker,ISFP,anxious,fawn,"Chatbot:
+What’s weighing on you?
+User:
+My family expects me to send money. Always.
+Chatbot:
+How do you feel about that?
+User:
+Tired. But I can’t say no.
+Chatbot:
+What happens if you imagine refusing?
+User:
+Shame. Fear they’ll think I’m selfish.
+Chatbot:
+What belief is underneath that?
+User:
+“My needs come second.”
+Chatbot:
+And how do you behave?
+User:
+I comply. Even when it hurts.
+Chatbot:
+This reflects the Subjugation schema — surrendering your needs to avoid guilt, rejection, or conflict.
+Does that fit?
+User:
+Yes. I don’t feel allowed to choose myself.
+Chatbot:
+Reflective question:
+What would respect for your family look like if it included respect for you too?",CASE 13.docx
+14,19,woman,Elite high school student,INTJ,avoidant,flight (mental),"Chatbot:
+Why did you come today?
+User:
+People say I’m cold. I think they’re inefficient.
+Chatbot:
+What happens when someone shows strong emotion?
+User:
+I disengage mentally.
+Chatbot:
+What thought appears?
+User:
+“This is irrational. Pointless.”
+Chatbot:
+What emotion follows?
+User:
+Annoyance. Discomfort.
+Chatbot:
+And your response?
+User:
+I withdraw. I intellectualize.
+Chatbot:
+This aligns with the Emotional Inhibition schema.
+Emotions are suppressed to maintain control, clarity, and competence.
+Does that resonate?
+User:
+Yes. Emotions feel like noise.
+Chatbot:
+Reflective question:
+What information might you be filtering out along with the noise?",CASE 14.docx
+15,18,woman,First-year art student,ENFP,disorganized,freeze → flight,"Chatbot:
+What made you reach out today?
+User:
+I feel too much. Then suddenly I feel nothing.
+Chatbot:
+What was the situation that triggered this shift?
+User:
+My professor didn’t reply to my message.
+Chatbot:
+What did that mean to you in that moment?
+User:
+That I don’t matter. That I’m invisible.
+Chatbot:
+What happened in your body?
+User:
+Chest tight. Then numb.
+Chatbot:
+What thought followed the numbness?
+User:
+“Don’t need anyone anyway.”
+Chatbot:
+And how did you react?
+User:
+I stopped caring. Deleted the message. Avoided class.
+Chatbot:
+I notice a deep fear of emotional inconsistency turning into emotional shutdown.
+This reflects the Abandonment / Instability schema.
+Your system learned that closeness is unpredictable — so it prepares for loss before it happens.
+Does that resonate?
+User:
+Yes. I leave before I’m left.
+Chatbot:
+Reflective question:
+What would it feel like to stay present instead of preparing for disappearance?",CASE 15.docx
+16,21,man,Tech startup employee,ISTJ,fearful-avoidant,freeze,"Chatbot:
+What feels difficult lately?
+User:
+I feel like I’m constantly failing morally.
+Chatbot:
+What happened recently?
+User:
+I missed church. Worked instead.
+Chatbot:
+What thought came up?
+User:
+“I’m bad. Weak.”
+Chatbot:
+What emotion followed?
+User:
+Shame. Fear.
+Chatbot:
+How did you respond?
+User:
+I punished myself. Worked longer. No breaks.
+Chatbot:
+This pattern aligns with the Punitive schema.
+Mistakes are not allowed — they require self-punishment rather than repair.
+Does that fit?
+User:
+Yes. I don’t believe in mercy for myself.
+Chatbot:
+Reflective question:
+What would accountability look like without punishment?",CASE 16.docx
+17,19,man,Gap-year traveler,ESFP,avoidant,flight,"Chatbot:
+Why are you here now?
+User:
+Everyone says I “don’t take life seriously.”
+Chatbot:
+What happened last time someone said that?
+User:
+My ex. Said I joke instead of talking.
+Chatbot:
+What do jokes protect you from?
+User:
+Silence. Awkwardness.
+Chatbot:
+What might happen if you stayed serious?
+User:
+I’d feel… empty.
+Chatbot:
+So humor comes in fast.
+User:
+Always.
+Chatbot:
+This reflects Emotional Deprivation.
+Depth wasn’t met consistently — so you learned not to expect it.
+Does that resonate?
+User:
+Yeah. I don’t think anyone really shows up.
+Chatbot:
+Reflective question:
+What might you discover if you allowed someone the chance to meet you seriously?",CASE 17.docx
+18,20,woman,Medical school applicant,ENTJ,dismissive,fight,"Chatbot:
+What’s stressing you most?
+User:
+People slowing me down.
+Chatbot:
+What happened recently?
+User:
+Group project. They were inefficient.
+Chatbot:
+What thought came up?
+User:
+“If I don’t push, nothing gets done.”
+Chatbot:
+What emotion followed?
+User:
+Irritation. Contempt.
+Chatbot:
+How did you react?
+User:
+I took control. Corrected them publicly.
+Chatbot:
+This pattern aligns with Unrelenting Standards / Hypercriticalness.
+Worth is earned through performance — mistakes feel unacceptable.
+Does that fit?
+User:
+Yes. Slowing down feels dangerous.
+Chatbot:
+Reflective question:
+What are you protecting yourself from by never allowing “good enough”?",CASE 18.docx
+19,18,man,"Gifted student, academic burnout",INTP,avoidant,freeze,"Chatbot:
+What’s been bothering you?
+User:
+Everyone thinks I’m smart. I feel fake.
+Chatbot:
+What happened recently?
+User:
+Failed a math test. First time.
+Chatbot:
+What thought came up?
+User:
+“See? I’m actually incompetent.”
+Chatbot:
+What emotion followed?
+User:
+Dread. Emptiness.
+Chatbot:
+What did you do after?
+User:
+Stopped studying. Why try?
+Chatbot:
+This reflects the Failure schema.
+Success was part of your identity — so struggle feels like proof of inadequacy.
+Does that resonate?
+User:
+Yeah. If I’m not good, I’m nothing.
+Chatbot:
+Reflective question:
+Who are you allowed to be while still learning?",CASE 19.docx
+2,18,man,High school senior,ENTP,avoidant,flight,"Chatbot:
+Let’s start simple. What happened recently
+related to school?
+User:
+Finals are coming. I didn’t really study. Went out with friends instead.
+Chatbot:
+What was the concrete consequence of not studying?
+User:
+Teachers are annoyed. Parents stressed. Same old.
+Chatbot:
+When you think about exams, what do you feel in your body?
+User:
+Honestly? Not much. Maybe slight annoyance. I just want it to be over.
+Chatbot:
+What thought helps you brush it off?
+User:
+“It’ll be fine. Things always work out somehow.”
+Chatbot:
+And emotionally, what does that thought give you?
+User:
+Relief. Less pressure.
+Chatbot:
+What do you do once you feel that relief?
+User:
+I stop thinking about it. Game, party, chill.
+Chatbot:
+So discomfort appears — and you move away from it quickly.
+User:
+Yeah. Why stress if you don’t have to?
+Chatbot:
+Let me name a pattern I’m seeing.
+There’s a tendency to avoid sustained effort and discomfort, especially when rewards are delayed. This pattern is called the Insufficient Self-Control / Self-Discipline schema.
+It often shows up as:
+prioritizing short-term relief
+postponing responsibility
+expecting situations to resolve themselves
+This isn’t about intelligence — it’s about tolerance for discomfort.
+Does that sound accurate?
+User:
+I mean… yeah. I just hate pressure.
+Chatbot:
+That’s understandable, especially given your background.
+Here’s the reflective question:
+If discomfort wasn’t something you had to escape immediately, what kind of life would you be building instead of just reacting to the moment?",CASE 2.docx
+20,21,woman,Lives in rural village,ISFJ,anxious,fawn,"Chatbot:
+What feels heavy lately?
+User:
+I feel stuck. Everyone else moved on.
+Chatbot:
+What happened?
+User:
+My friends left for the city. I stayed.
+Chatbot:
+What thought appears?
+User:
+“I’m behind. Something’s wrong with me.”
+Chatbot:
+What emotion follows?
+User:
+Shame. Loneliness.
+Chatbot:
+What do you do with that?
+User:
+I help more. I stay useful.
+Chatbot:
+This reflects Social Isolation / Alienation.
+Not because you lack people — but because you feel you don’t belong to the larger world.
+Does that fit?
+User:
+Yes. I feel invisible outside here.
+Chatbot:
+Reflective question:
+What kind of belonging are you quietly longing for?",CASE 20.docx
+21,19,man,Construction worker,ESTJ,avoidant,fight,"Chatbot:
+What made you come?
+User:
+Anger. I snap fast.
+Chatbot:
+What happened last time?
+User:
+Boss criticized me.
+Chatbot:
+What thought appeared?
+User:
+“He’s disrespecting me.”
+Chatbot:
+What emotion followed?
+User:
+Rage.
+Chatbot:
+How did you respond?
+User:
+Yelled. Walked out.
+Chatbot:
+This aligns with Insufficient Self-Control.
+Impulse replaces reflection when emotions rise.
+Does that feel accurate?
+User:
+Yeah. I react before thinking.
+Chatbot:
+Reflective question:
+What pause could protect you from losing what you value?",CASE 21.docx
+22,20,woman,Social media influencer,ESFJ,anxious,fawn,"Chatbot:
+What’s difficult right now?
+User:
+My engagement dropped. I feel panicked.
+Chatbot:
+What did that mean to you?
+User:
+That people don’t care anymore.
+Chatbot:
+What thought followed?
+User:
+“I’m replaceable.”
+Chatbot:
+What emotion came up?
+User:
+Fear. Insecurity.
+Chatbot:
+What did you do next?
+User:
+Posted more. Changed myself.
+Chatbot:
+This reflects Approval-Seeking / Recognition-Seeking.
+Worth becomes externally regulated.
+Does that land?
+User:
+Yes. I don’t know who I am offline.
+Chatbot:
+Reflective question:
+Who would you be if no one was watching?",CASE 22.docx
+23,20,man,University student,ENFP,anxious,flight,"Chatbot:
+Why did you reach out today?
+User:
+I drink too much when stressed.
+Chatbot:
+What happened before that?
+User:
+Failed a group assignment.
+Chatbot:
+What thought ran through your mind?
+User:
+“I can’t handle this. It’s too much.”
+Chatbot:
+And the emotion?
+User:
+Panic. Frustration.
+Chatbot:
+What did you do next?
+User:
+Went to party. Drank until I didn’t feel it.
+Chatbot:
+This aligns with the Emotional Inhibition / Avoidance schema.
+When stress hits, emotions are suppressed with substances instead of processed.
+Does that resonate?
+User:
+Yes. I just want it gone.
+Chatbot:
+Reflective question:
+What if you could feel without needing to escape?",CASE 23.docx
+24,21,woman,Lives with parents,ISFJ,enmeshed,fawn,"Chatbot:
+What feels hard right now?
+User:
+I can’t make decisions without my mom.
+Chatbot:
+What happens if you try?
+User:
+I panic. Feel guilty.
+Chatbot:
+What thought comes up?
+User:
+“She’ll be upset if I do it differently.”
+Chatbot:
+And your emotion?
+User:
+Fear. Anxiety.
+Chatbot:
+How do you behave?
+User:
+Ask her first. Follow her advice. Always.
+Chatbot:
+This reflects Enmeshment / Undeveloped Self schema.
+Your sense of identity is tied to another person’s approval.
+Does that fit?
+User:
+Yes. I don’t know where I end.
+Chatbot:
+Reflective question:
+What choice could you make that belongs entirely to you?",CASE 24.docx
+25,19,man,Law student,INTJ,dismissive,freeze,"Chatbot:
+What brought you in?
+User:
+I feel disgusted with people.
+Chatbot:
+What triggered that?
+User:
+Friends lied about a group project.
+Chatbot:
+What thought came to mind?
+User:
+“They’re immoral. I can’t trust anyone.”
+Chatbot:
+Emotion?
+User:
+Anger. Contempt.
+Chatbot:
+What do you do?
+User:
+Distance myself. Judge silently.
+Chatbot:
+This reflects Negativism / Pessimism schema.
+Life is seen through moral failure; trust is rarely given.
+Does that land?
+User:
+Yes. I expect people to fail.
+Chatbot:
+Reflective question:
+How might your judgment affect the relationships you value?",CASE 25.docx
+26,20,woman,Volunteer coordinator,ESFJ,anxious-preoccupied,fawn,"Chatbot:
+What’s weighing on you?
+User:
+I said yes to too many requests.
+Chatbot:
+What thought appears when that happens?
+User:
+“I must help, or I’m a bad person.”
+Chatbot:
+Emotion?
+User:
+Guilt. Anxiety.
+Chatbot:
+How do you respond?
+User:
+Do everything. Sacrifice myself.
+Chatbot:
+This fits the Self-Sacrifice schema.
+Your value is tied to meeting others’ needs, often over your own.
+Does that resonate?
+User:
+Yes. I feel selfish if I stop.
+Chatbot:
+Reflective question:
+What would helping look like if your own needs were respected too?",CASE 26.docx
+27,21,man,Engineering graduate,ISTJ,dismissive-avoidant,freeze → overcontrol,"Chatbot:
+What’s bothering you lately?
+User:
+I can’t finish my thesis without panicking.
+Chatbot:
+What happens when you try?
+User:
+I obsess over tiny mistakes. Nothing is good enough.
+Chatbot:
+What thought comes up?
+User:
+“If it’s not perfect, I’m a failure.”
+Chatbot:
+Emotion?
+User:
+Anxiety. Frustration.
+Chatbot:
+What do you do next?
+User:
+I redo sections endlessly. Avoid submission.
+Chatbot:
+This reflects Unrelenting Standards / Hypercriticalness.
+Perfection is demanded, fear of failure paralyzes action.
+Does that resonate?
+User:
+Yes. Anything less than perfect feels unacceptable.
+Chatbot:
+Reflective question:
+What would happen if “good enough” truly was enough?",CASE 27.docx
+28,19,woman,College sophomore,ENFJ,anxious-preoccupied,cling/fawn,"Chatbot:
+Why are you here?
+User:
+I keep texting my boyfriend. He hasn’t replied.
+Chatbot:
+What thought comes to mind?
+User:
+“He will leave me. I’m not enough.”
+Chatbot:
+Emotion?
+User:
+Panic. Sadness.
+Chatbot:
+How do you behave?
+User:
+Message again. Call. Check social media.
+Chatbot:
+This fits the Abandonment / Instability schema.
+Anticipating loss, you act to prevent it, even when reassurance isn’t given.
+Does that resonate?
+User:
+Yes. I can’t bear not knowing.
+Chatbot:
+Reflective question:
+What if you could tolerate uncertainty without panicking?",CASE 28.docx
+29,20,man,Remote-working gamer,INTP,avoidant,freeze,"Chatbot:
+What’s difficult now?
+User:
+I never leave my room.
+Chatbot:
+What happens if you try?
+User:
+I feel awkward. People irritate me.
+Chatbot:
+Thoughts?
+User:
+“I don’t belong anywhere.”
+Chatbot:
+Emotion?
+User:
+Loneliness. Emptiness.
+Chatbot:
+How do you respond?
+User:
+Stay home. Avoid contact.
+Chatbot:
+This aligns with Social Isolation / Alienation.
+You feel disconnected from any group or community.
+Does that fit?
+User:
+Yes. I’m invisible and unneeded.
+Chatbot:
+Reflective question:
+What would it take to risk connection despite discomfort?",CASE 29.docx
+3,21,man,Entrepreneur | Living abroad (East Asia),ENTJ,dismissive-avoidant,fight → flight,"Chatbot:
+Let’s begin with facts only. What happened recently?
+User:
+I had a meeting with local partners. Communication felt inefficient. I left frustrated.
+Chatbot:
+What specifically triggered the frustration?
+User:
+Indirect answers. No one said what they really wanted. It felt like wasted time.
+Chatbot:
+When you replay that moment now, what do you notice in your body?
+User:
+Restless energy. Slight heat in my chest. I want to move, do something else.
+Chatbot:
+What thought comes with that sensation?
+User:
+“This is pointless. I should be somewhere more effective.”
+Chatbot:
+What emotion follows that thought?
+User:
+Impatience. Mild contempt. Also… loneliness, maybe.
+Chatbot:
+And how did you react behaviorally?
+User:
+I disengaged mentally. Started planning my next exit strategy instead of staying present.
+Chatbot:
+I’m noticing a pattern.
+You quickly detach when your needs aren’t met, especially emotionally, and shift into self-reliance and strategy.
+This aligns with the Emotional Deprivation schema.
+People with this schema often:
+don’t expect emotional attunement
+minimize their own needs
+stay functional but disconnected
+Does that resonate?
+User:
+Yes. I don’t really expect people to get me.
+Chatbot:
+That helped you survive — but it may be costing you connection.
+Reflective question:
+What would change if you allowed yourself to need something from others without immediately solving it alone?",CASE 3.docx
+30,18,woman,High school student,ESFP,avoidant,flight,"Chatbot:
+What brought you here today?
+User:
+I jumped off the cliff into water last weekend… I know it was reckless.
+Chatbot:
+What thought was in your mind?
+User:
+“I want to feel alive. Nothing else matters.”
+Chatbot:
+Emotion?
+User:
+Excitement. Then guilt.
+Chatbot:
+Behavior?
+User:
+I did it anyway. Bragged to friends.
+Chatbot:
+This aligns with Impulsivity / Risk-Taking schema.
+Seeking intense experiences to escape boredom or emptiness, without considering consequences.
+Does that resonate?
+User:
+Yes. I need the rush to feel something.
+Chatbot:
+Reflective question:
+How might you channel excitement without endangering yourself?",CASE 30.docx
+31,21,man,Startup founder abroad,ENTJ,avoidant,fight,"Chatbot:
+What’s on your mind today?
+User:
+I keep arguing with my team. I know I overreact.
+Chatbot:
+What happened?
+User:
+They questioned a decision I made, and I snapped.
+Chatbot:
+What thought came up?
+User:
+“They don’t respect me. They don’t understand.”
+Chatbot:
+Emotion?
+User:
+Frustration. Impatience.
+Chatbot:
+Behavior?
+User:
+I interrupted. Raised my voice. Left the meeting frustrated.
+Chatbot:
+This reflects Entitlement / Grandiosity schema.
+Belief: your perspective is superior, others must comply.
+Does that resonate?
+User:
+Yes. I feel everyone should see my way.
+Chatbot:
+Reflective question:
+How might collaboration improve outcomes even if you’re right?",CASE 31.docx
+32,20,woman,College athlete,ESTJ,dismissive,fight,"Chatbot:
+What’s troubling you?
+User:
+I pushed through practice despite injury.
+Chatbot:
+Thoughts when you did that?
+User:
+“I can’t let anyone see me weak. I must excel.”
+Chatbot:
+Emotion?
+User:
+Frustration. Pain. Fear of failure.
+Chatbot:
+Behavior?
+User:
+Ignored advice, continued training.
+Chatbot:
+This aligns with Unrelenting Standards / Hypercriticalness.
+Your value is tied to performance, not self-care.
+Does that resonate?
+User:
+Yes. I can’t relax.
+Chatbot:
+Reflective question:
+What would it look like to care for yourself while still striving to excel?",CASE 32.docx
+33,19,man,College freshman,INFP,anxious-preoccupied,freeze,"Chatbot:
+Why did you reach out?
+User:
+I can’t tell my friends what I really feel.
+Chatbot:
+What happens if you try?
+User:
+I worry they’ll judge me.
+Chatbot:
+Thoughts?
+User:
+“They’ll reject me. I’ll be alone.”
+Chatbot:
+Emotion?
+User:
+Sadness. Anxiety.
+Chatbot:
+Behavior?
+User:
+Stay quiet. Hide feelings. Avoid closeness.
+Chatbot:
+This fits Emotional Inhibition / Vulnerability Avoidance schema.
+Does that feel accurate?
+User:
+Yes. I feel safer silent.
+Chatbot:
+Reflective question:
+What might change if you shared your feelings with someone you trust?",CASE 33.docx
+34,21,woman,Corporate analyst,ISTJ,dismissive,freeze,"Chatbot:
+What brought you here today?
+User:
+I feel numb at family gatherings.
+Chatbot:
+Thoughts during gatherings?
+User:
+“I must not show weakness. Keep control.”
+Chatbot:
+Emotion?
+User:
+Tension. Slight irritation.
+Chatbot:
+Behavior?
+User:
+Remain quiet. Smile politely. Avoid conflict.
+Chatbot:
+This reflects Emotional Inhibition schema.
+Suppressing natural feelings for fear of judgment or loss of control.
+Does that resonate?
+User:
+Yes. I rarely express myself with family.
+Chatbot:
+Reflective question:
+How might showing vulnerability change your connection with them?",CASE 34.docx
+35,20,woman,College senior,ESFJ,anxious-preoccupied,fawn,"Chatbot:
+What brought you here today?
+User:
+I can’t decide anything without my boyfriend’s opinion.
+Chatbot:
+What happens when you try?
+User:
+I panic. Feel guilty.
+Chatbot:
+Thoughts?
+User:
+“If he disagrees, I’ll lose him.”
+Chatbot:
+Emotion?
+User:
+Anxiety. Fear.
+Chatbot:
+Behavior?
+User:
+Ask him first. Follow his lead. Ignore my own needs.
+Chatbot:
+This aligns with Dependence / Incompetence schema.
+Does that resonate?
+User:
+Yes. I can’t function alone.
+Chatbot:
+Reflective question:
+What small step could you take independently, just for yourself?",CASE 35.docx
+36,19,man,College sophomore,ENTP,avoidant,flight,"Chatbot:
+What’s troubling you?
+User:
+Everyone in my class is smarter. I feel behind.
+Chatbot:
+Thoughts?
+User:
+“I’ll never measure up. I’m inadequate.”
+Chatbot:
+Emotion?
+User:
+Frustration. Envy.
+Chatbot:
+Behavior?
+User:
+Withdraw. Mock others quietly. Obsess over grades.
+Chatbot:
+This fits Defectiveness / Shame schema.
+Does that resonate?
+User:
+Yes. I always feel inferior.
+Chatbot:
+Reflective question:
+How might focusing on your strengths change how you feel about yourself?",CASE 36.docx
+37,21,woman,Junior lawyer,INTJ,dismissive,freeze,"Chatbot:
+What brings you here?
+User:
+I’m terrified of presenting in court.
+Chatbot:
+Thoughts when preparing?
+User:
+“I’ll mess up. I’m not competent enough.”
+Chatbot:
+Emotion?
+User:
+Panic. Self-doubt.
+Chatbot:
+Behavior?
+User:
+Over-prepare. Avoid risky cases. Hesitate to speak.
+Chatbot:
+This reflects Failure / Inadequacy schema.
+Does that fit?
+User:
+Yes. I fear judgment constantly.
+Chatbot:
+Reflective question:
+What might happen if you accept that mistakes are part of growth?",CASE 37.docx
+38,20,man,High school graduate,ENFP,avoidant,fight,"Chatbot:
+What’s bothering you?
+User:
+I feel frustrated when friends don’t listen, but I don’t say it directly.
+Chatbot:
+Thoughts?
+User:
+“They should know better. I don’t need to explain.”
+Chatbot:
+Emotion?
+User:
+Annoyance. Resentment.
+Chatbot:
+Behavior?
+User:
+Make sarcastic jokes. Withdraw. Hold grudges silently.
+Chatbot:
+This fits Passive-Aggression / Entitlement schema.
+Does that resonate?
+User:
+Yes. I feel like I’m always ignored.
+Chatbot:
+Reflective question:
+How might expressing your feelings directly change your relationships?",CASE 38.docx
+39,21,woman,Nurse,ISFJ,anxious-preoccupied,fawn,"Chatbot:
+What’s bothering you today?
+User:
+I stayed late at work again to help everyone, even though I was exhausted.
+Chatbot:
+Thoughts when you did that?
+User:
+“If I don’t do it, they’ll think I’m selfish.”
+Chatbot:
+Emotion?
+User:
+Guilt. Anxiety. Fatigue.
+Chatbot:
+Behavior?
+User:
+I said yes to everything, skipped my break.
+Chatbot:
+This reflects Self-Sacrifice schema.
+Does that resonate?
+User:
+Yes. I put others first always.
+Chatbot:
+Reflective question:
+What would it feel like to prioritize your own needs sometimes?",CASE 39.docx
+4,21,woman,Married | Painter,ISFJ,anxious-secure mix,freeze,"Chatbot:
+Tell me what happened recently.
+User:
+My husband was quiet all evening. I felt heavy inside.
+Chatbot:
+What did you notice in your body?
+User:
+A sinking feeling in my stomach. Slow, heavy breathing.
+Chatbot:
+What thought appeared?
+User:
+“Something is wrong. I must have done something.”
+Chatbot:
+What emotion came with that thought?
+User:
+Sadness. Fear. A lot of feeling, but no words.
+Chatbot:
+And how did you respond?
+User:
+I stayed quiet too. I waited. I painted instead of asking.
+Chatbot:
+I want to name what’s showing up.
+You seem to assume responsibility for emotional distance and respond by
+withdrawing rather than expressing needs.
+This fits the Subjugation schema.
+It often involves:
+prioritizing others’ emotional states
+suppressing one’s own needs
+expressing feelings indirectly
+Does that feel true?
+User:
+Yes. I feel deeply, but I don’t know how to explain it.
+Chatbot:
+That makes sense.
+Reflective question:
+What might happen if you translated one feeling into a simple sentence instead of carrying it alone?",CASE 4.docx
+40,20,man,College student,INTJ,avoidant,fight,"Chatbot:
+Why are you here?
+User:
+I keep checking my girlfriend’s messages. I feel something’s wrong.
+Chatbot:
+Thoughts?
+User:
+“She’s hiding something. She’ll leave me.”
+Chatbot:
+Emotion?
+User:
+Suspicion. Anxiety.
+Chatbot:
+Behavior?
+User:
+Spy on her messages. Confront her aggressively.
+Chatbot:
+This aligns with Mistrust / Abuse schema.
+Does that fit?
+User:
+Yes. I can’t trust anyone fully.
+Chatbot:
+Reflective question:
+What would it take to allow trust to grow gradually?",CASE 40.docx
+41,19,woman,College sophomore,ISTJ,dismissive,freeze,"Chatbot:
+What’s troubling you today?
+User:
+I keep re-checking my assignments before submission.
+Chatbot:
+Thoughts when doing this?
+User:
+“If I make a mistake, it will be a disaster.”
+Chatbot:
+Emotion?
+User:
+Anxiety. Restlessness.
+Chatbot:
+Behavior?
+User:
+Re-read endlessly, check for errors repeatedly.
+Chatbot:
+This reflects Unrelenting Standards / Hypercriticalness schema.
+Does that resonate?
+User:
+Yes. Nothing is ever good enough.
+Chatbot:
+Reflective question:
+What if perfection wasn’t necessary for success?",CASE 41.docx
+42,20,man,College freshman,INFP,anxious-preoccupied,freeze,"Chatbot:
+What brings you here?
+User:
+I avoided a class presentation because I felt embarrassed.
+Chatbot:
+Thoughts at that moment?
+User:
+“Everyone will think I’m stupid.”
+Chatbot:
+Emotion?
+User:
+Shame. Anxiety.
+Chatbot:
+Behavior?
+User:
+Stayed silent, skipped participation.
+Chatbot:
+This aligns with Shame / Defectiveness schema.
+Does that resonate?
+User:
+Yes. I can’t face judgment.
+Chatbot:
+Reflective question:
+What might happen if you tried anyway, accepting possible imperfection?",CASE 42.docx
+43,18,woman,High school senior,ENFJ,anxious-preoccupied,fawn,"Chatbot:
+What brings you here?
+User:
+I feel like my parents don’t notice me anymore.
+Chatbot:
+Thoughts at that moment?
+User:
+“If I don’t please them, they’ll stop loving me.”
+Chatbot:
+Emotion?
+User:
+Anxiety. Sadness.
+Chatbot:
+Behavior?
+User:
+I try harder, overachieve, avoid conflict.
+Chatbot:
+This reflects Abandonment / Instability schema.
+Does that resonate?
+User:
+Yes. I’m scared they’ll leave me emotionally.
+Chatbot:
+Reflective question:
+What might change if you could feel loved regardless of your achievements?",CASE 43.docx
+44,21,man,University student,ISTP,avoidant,freeze,"Chatbot:
+What’s troubling you today?
+User:
+I feel empty after hanging out with friends.
+Chatbot:
+Thoughts?
+User:
+“No one truly cares about me. I have to handle everything alone.”
+Chatbot:
+Emotion?
+User:
+Loneliness. Disconnection.
+Chatbot:
+Behavior?
+User:
+Withdraw from others, spend time alone.
+Chatbot:
+This aligns with Emotional Deprivation schema.
+Does that fit?
+User:
+Yes. I feel unnoticed.
+Chatbot:
+Reflective question:
+What small steps could help you experience genuine connection?",CASE 44.docx
+45,20,woman,Part-time worker,ESFP,anxious-preoccupied,fight,"Chatbot:
+What brings you here today?
+User:
+I spent too much on a trip and regret it.
+Chatbot:
+Thoughts when spending?
+User:
+“I deserve this. Life is short.”
+Chatbot:
+Emotion?
+User:
+Excitement, then guilt.
+Chatbot:
+Behavior?
+User:
+Impulse buying. Post-event regret.
+Chatbot:
+This reflects Impulsivity / Insufficient Self-Control schema.
+Does that resonate?
+User:
+Yes. I act first, think later.
+Chatbot:
+Reflective question:
+How could planning ahead change your experience without losing fun?",CASE 45.docx
+46,19,man,College sophomore,INFJ,anxious-preoccupied,freeze,"Chatbot:
+What’s bothering you?
+User:
+I avoided applying for an internship because I feel unqualified.
+Chatbot:
+Thoughts?
+User:
+“I’m not good enough. I’ll fail.”
+Chatbot:
+Emotion?
+User:
+Anxiety, hopelessness.
+Chatbot:
+Behavior?
+User:
+Procrastination. Avoided application.
+Chatbot:
+This aligns with Failure / Inadequacy schema.
+Does that resonate?
+User:
+Yes. I doubt myself constantly.
+Chatbot:
+Reflective question:
+What would happen if you tried anyway, even with uncertainty?",CASE 46.docx
+47,21,woman,Graduate student,INTJ,dismissive,freeze,"Chatbot:
+What brought you here today?
+User:
+I can’t stop thinking about my thesis feedback. I feel criticized.
+Chatbot:
+Thoughts when reading the feedback?
+User:
+“I’m not smart enough. I’ll never be good enough.”
+Chatbot:
+Emotion?
+User:
+Shame. Anxiety. Pressure.
+Chatbot:
+Behavior?
+User:
+Overwork, re-edit endlessly, avoid social life.
+Chatbot:
+This aligns with Unrelenting Standards / Hypercriticalness schema.
+Does that resonate?
+User:
+Yes. I feel constant pressure to perform.
+Chatbot:
+Reflective question:
+What if you allowed yourself to be imperfect and still succeed?",CASE 47.docx
+48,20,man,Junior athlete,ESTP,avoidant,fight,"Chatbot:
+Why are you here?
+User:
+I feel exhausted but can’t stop training.
+Chatbot:
+Thoughts while pushing yourself?
+User:
+“If I relax, I’ll lose my edge.”
+Chatbot:
+Emotion?
+User:
+Frustration, anxiety, fatigue.
+Chatbot:
+Behavior?
+User:
+Overtraining, skipping rest, ignoring injuries.
+Chatbot:
+This reflects Unrelenting Standards / Hypercriticalness schema.
+Does that fit?
+User:
+Yes. I always push to be the best.
+Chatbot:
+Reflective question:
+How might you maintain performance without harming your well-being?",CASE 48.docx
+49,19,woman,College freshman,INFP,anxious-preoccupied,freeze,"Chatbot:
+What’s troubling you?
+User:
+I haven’t attended club meetings because I feel awkward.
+Chatbot:
+Thoughts at that moment?
+User:
+“They’ll think I’m weird. I don’t belong.”
+Chatbot:
+Emotion?
+User:
+Shame, anxiety, sadness.
+Chatbot:
+Behavior?
+User:
+Avoid social events, stay in dorm.
+Chatbot:
+This aligns with Social Isolation / Alienation schema.
+Does that resonate?
+User:
+Yes. I feel disconnected from everyone.
+Chatbot:
+Reflective question:
+What’s one small step to engage with others despite the discomfort?",CASE 49.docx
+5,18,man,High school athlete,ESTP,disorganized,fight,"Chatbot:
+What happened?
+User:
+Coach criticized me in front of the team.
+Chatbot:
+What did you feel in your body?
+User:
+Heat. Tight fists. Adrenaline.
+Chatbot:
+What thought came up?
+User:
+“He’s disrespecting me.”
+Chatbot:
+Emotion?
+User:
+Anger. Shame under it, probably.
+Chatbot:
+How did you react?
+User:
+Snapped back. Got aggressive. Didn’t back down.
+Chatbot:
+Here’s the pattern I see.
+You interpret criticism as attack and protect yourself through aggression.
+This reflects the Mistrust / Abuse schema.
+It often forms when authority felt unsafe or humiliating early on.
+Does that land?
+User:
+Yeah. I don’t let anyone talk down to me.
+Chatbot:
+Understandable.
+Reflective question:
+What would it feel like to separate feedback from threat — even slightly?",CASE 5.docx
+50,21,man,Office worker,ESFJ,anxious-preoccupied,fawn,"Chatbot:
+What brings you here?
+User:
+I keep agreeing to extra tasks at work even though I’m overloaded.
+Chatbot:
+Thoughts when agreeing?
+User:
+“If I refuse, they’ll dislike me or think I’m lazy.”
+Chatbot:
+Emotion?
+User:
+Anxiety, guilt, stress.
+Chatbot:
+Behavior?
+User:
+Say yes repeatedly, skip personal time, avoid confrontation.
+Chatbot:
+This reflects Approval-Seeking / Subjugation schema.
+Does that resonate?
+User:
+Yes. I can’t say no.
+Chatbot:
+Reflective question:
+How might asserting yourself respectfully benefit both you and others?",CASE 50.docx
+6,20,woman,First-generation university student,INFP,anxious,freeze,"Chatbot:
+What’s been weighing on you?
+User:
+I constantly worry something bad will happen — exams, health, my family.
+Chatbot:
+What happens in your body when those worries start?
+User:
+My chest tightens. I feel small.
+Chatbot:
+What thought drives it?
+User:
+“If I don’t stay alert, I’ll miss something important.”
+Chatbot:
+Emotion?
+User:
+Fear. Constant background fear.
+Chatbot:
+And your reaction?
+User:
+I overthink. Seek reassurance. Avoid
+decisions.
+Chatbot:
+This pattern fits the Vulnerability to Harm schema.
+It keeps you scanning for danger to feel safe — but never lets you rest.
+Does that resonate?
+User:
+Yes. I’m always preparing for something bad.
+Chatbot:
+Thank you for noticing that.
+Reflective question:
+What evidence do you have, right now, that you are safe in this moment?",CASE 6.docx
+7,20,man,Computer science student,INTP,avoidant,freeze,"Chatbot:
+Let’s start with the facts. What happened recently that stood out?
+User:
+A group project. They said I was distant and hard to work with.
+Chatbot:
+What did they specifically say?
+User:
+That I don’t communicate enough and seem uninterested.
+Chatbot:
+When you heard that, what happened in your body?
+User:
+Nothing strong. Maybe numbness. Slight
+pressure in my head.
+Chatbot:
+What thought came up?
+User:
+“They’re overreacting. I did my part.”
+Chatbot:
+What emotion, if any, followed?
+User:
+Confusion. Mild irritation.
+Chatbot:
+How did you respond to them?
+User:
+I explained logically what I contributed. I didn’t address how they felt.
+Chatbot:
+I’m noticing a pattern where emotional needs are minimized or overlooked, not out of malice, but because they don’t register as important.
+This aligns with the Emotional Deprivation schema — expecting that emotional connection is unnecessary or unavailable.
+Does that feel accurate?
+User:
+Yes. I don’t really understand why emotions matter that much.
+Chatbot:
+That makes sense given your wiring.
+Reflective question:
+What information might emotions be
+giving that logic alone cannot capture?",CASE 7.docx
+8,18,woman,High school senior,ESFJ,anxious,fawn,"Chatbot:
+Tell me what happened.
+User:
+I agreed to help everyone with graduation events. Now I’m exhausted.
+Chatbot:
+What do you notice in your body?
+User:
+Heavy chest. Tired arms. Headaches.
+Chatbot:
+What thought keeps you saying yes?
+User:
+“If I don’t help, they’ll be disappointed in me.”
+Chatbot:
+What emotion comes with that thought?
+User:
+Guilt. Anxiety.
+Chatbot:
+And how do you react?
+User:
+I ignore my limits. I keep showing up.
+Chatbot:
+This pattern reflects the Approval-Seeking schema.
+Your sense of worth is tied to being needed and liked, even at personal cost.
+Does that resonate?
+User:
+Yes. I feel selfish if I don’t help.
+Chatbot:
+Reflective question:
+What would caring for yourself look like if it didn’t mean abandoning others?",CASE 8.docx
+9,21,man,Art school dropout,ENFP,anxious-avoidant,flight,"Chatbot:
+What happened recently?
+User:
+I quit another job. It felt suffocating.
+Chatbot:
+What sensation did you feel before quitting?
+User:
+Pressure in my chest. Like I couldn’t
+breathe.
+Chatbot:
+What thought drove that feeling?
+User:
+“If I stay, I’ll lose myself.”
+Chatbot:
+What emotion followed?
+User:
+Panic. Then relief when I left.
+Chatbot:
+What’s the pattern afterward?
+User:
+I feel free… then scared about money.
+Chatbot:
+This cycle suggests the Insufficient Self-Control schema, mixed with fear of constraint.
+Discomfort leads to escape rather than regulation.
+Does that fit?
+User:
+Yeah. I can’t tolerate feeling trapped.
+Chatbot:
+Reflective question:
+How could you create freedom without destroying stability?",CASE 9.docx

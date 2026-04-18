@@ -1,0 +1,155 @@
+.welcome-screen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  animation: fadeIn 0.5s ease;
+}
+
+.welcome-container {
+  background: var(--bg-primary);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-xl);
+  max-width: 600px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.welcome-header {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  padding: 2rem;
+  text-align: center;
+  color: white;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.logo h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.logo-icon {
+  width: 36px;
+  height: 36px;
+}
+
+.tagline {
+  font-size: 0.95rem;
+  opacity: 0.95;
+}
+
+.welcome-content {
+  padding: 2rem;
+}
+
+.welcome-icon {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 1.5rem;
+  color: var(--primary-color);
+}
+
+.welcome-icon svg {
+  width: 100%;
+  height: 100%;
+}
+
+.welcome-content h2 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: var(--text-primary);
+}
+
+.welcome-description {
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.steps-preview {
+  background: var(--bg-secondary);
+  padding: 1.5rem;
+  border-radius: var(--border-radius);
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+.steps-preview h3 {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+}
+
+.steps-preview ol {
+  margin-left: 1.5rem;
+  color: var(--text-secondary);
+}
+
+.steps-preview li {
+  padding: 0.4rem 0;
+  line-height: 1.5;
+}
+
+.disclaimer {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #fef3c7;
+  border-radius: var(--border-radius-sm);
+  border: 1px solid #fbbf24;
+}
+
+.disclaimer svg {
+  width: 20px;
+  height: 20px;
+  color: #f59e0b;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.disclaimer p {
+  font-size: 0.875rem;
+  color: #92400e;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.welcome-content .btn-large {
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .welcome-container {
+    margin: 0.5rem;
+  }
+
+  .welcome-header {
+    padding: 1.5rem;
+  }
+
+  .logo h1 {
+    font-size: 1.5rem;
+  }
+
+  .welcome-content {
+    padding: 1.5rem;
+  }
+
+  .welcome-content h2 {
+    font-size: 1.5rem;
+  }
+}
