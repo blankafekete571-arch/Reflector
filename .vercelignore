@@ -1,0 +1,5 @@
+# Exclude root Python manifests so deployment uses api/requirements.txt only
+requirements.txt
+requirements-vercel.txt
+pyproject.toml
+reflektor/
