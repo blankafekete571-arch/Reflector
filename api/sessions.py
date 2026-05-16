@@ -357,7 +357,7 @@ def handler(request):
                 },
                 "body": json.dumps({
                     "session_id": session_id,
-                    "message":Session ended successfully",
+                    "message": "Session ended successfully",
                     "saved_path": saved_path
                 })
             }
