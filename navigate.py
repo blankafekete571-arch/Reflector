@@ -226,7 +226,7 @@ app.add_middleware(
     allow_origins=[
     
         "https://api.navigate.hu",
-        "https://reflector-ai.vercel.app",
+        "https://reflector-app-inky.vercel.app/",
         "http://localhost:5173",
 
 
