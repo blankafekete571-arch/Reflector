@@ -223,7 +223,14 @@ app = FastAPI(
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://api.navigate.hu"],  # Configure appropriately for production
+    allow_origins=[
+    
+        "https://api.navigate.hu",
+        "https://reflector-ai.vercel.app",
+        "http://localhost:5173",
+
+
+ ],  # Configure appropriately for production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -438,7 +445,7 @@ if __name__ == "__main__":
     uvicorn.run(
         "navigate:app",
         host="0.0.0.0",
-        port="8000",
+        port=8000,
         log_level="info"
     )
 
