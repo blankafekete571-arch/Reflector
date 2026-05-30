@@ -1,21 +1,24 @@
 {
   "version": 2,
-  "buildCommand": "cd frontend && npm install && npm run vercel-build && cd .. && cp -r frontend/dist dist",
   "builds": [
+    {
+      "src": "frontend/package.json",
+      "use": "@vercel/static-build"
+    
+    },
     {
       "src": "api/index.py",
       "use": "@vercel/python"
     }
   ],
-  "outputDirectory": "dist",
   "routes": [
-    { "src": "/api/(.*)", "dest": "/api/index.py" },
-    { "src": "/api$", "dest": "/api/index.py" },
     {
-      "src": "/(.*\\.(?:js|css|mjs|json|png|jpg|jpeg|svg|ico|txt|webmanifest|map))$",
-      "dest": "/$1"
+      "src": "/api/(.*)",
+      "dest": "api/index.py"
     },
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "dest": "/index.html" }
+    {
+      "src": "/(.*)",
+      "dest": "/"
+    }
   ]
 }

@@ -215,7 +215,7 @@ class SessionManager:
 
 # Initialize FastAPI app and session manager
 app = FastAPI(
-    title="Reflektor API",
+    root_path="/api",
     description="Structured self-reflection exercise (CBT-style) REST API",
     version="1.0.0"
 )
@@ -441,3 +441,4 @@ if __name__ == "__main__":
         port="8000",
         log_level="info"
     )
+
