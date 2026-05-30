@@ -1,19 +1,13 @@
 {
   "version": 2,
+  "buildCommand": "cd frontend && npm install && npm run vercel-build && cd .. && cp -r frontend/dist dist",
   "builds": [
-    {
-      "src": "frontend/package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "frontend/dist"
-      }
-    },
     {
       "src": "api/index.py",
       "use": "@vercel/python"
     }
   ],
-  "outputDirectory": "frontend/dist",
+  "outputDirectory": "dist",
   "routes": [
     { "src": "/api/(.*)", "dest": "/api/index.py" },
     { "src": "/api$", "dest": "/api/index.py" },

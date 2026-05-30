@@ -47,3 +47,5 @@ reflection_session_*.json
 # Windows
 Thumbs.db
 desktop.ini
+.vercel
+.env*.local

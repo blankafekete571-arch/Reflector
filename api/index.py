@@ -1,11 +1,14 @@
 """
 Vercel serverless function entry point
 """
-from sessions import handler as sessions_handler
+import sys
+import os
 
-def handler(request):
-    """Main handler that routes to appropriate function"""
-    return sessions_handler(request)
+# Add parent directory to path to import navigate module
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-# Export for Vercel
-app = handler
+# Import and export the FastAPI app
+from navigate import app
+
+# This export is recognized by Vercel's Python builder
+__all__ = ['app']
