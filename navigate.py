@@ -228,6 +228,7 @@ app.add_middleware(
         "https://api.navigate.hu",
         "https://reflector-7k8j.vercel.app",
         "http://localhost:5173",
+        "http://localhost:8000/docs"
 
 
  ],  # Configure appropriately for production
