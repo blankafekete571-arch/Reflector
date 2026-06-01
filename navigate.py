@@ -225,7 +225,6 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
     
-        "https://api.navigate.hu",
         "https://reflector-7k8j.vercel.app"
 
 
