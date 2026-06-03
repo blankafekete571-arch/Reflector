@@ -225,7 +225,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
     
-        "https://reflector-7k8j.vercel.app"
+        https://frontend-rho-six-38.vercel.app
 
 
  ],  # Configure appropriately for production
