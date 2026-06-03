@@ -223,10 +223,7 @@ app = FastAPI(
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-    
-        https://frontend-rho-six-38.vercel.app
-
+    allow_origins=[https://reflector-yzgr.vercel.app/
 
  ],  # Configure appropriately for production
     allow_credentials=True,
