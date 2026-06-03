@@ -223,13 +223,12 @@ app = FastAPI(
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[https//reflector-yzgr.vercel.app/
-
- ],  # Configure appropriately for production
+    allow_origins=["https://reflector-yzgr.vercel.app"],  # Configure appropriately for production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 session_manager = SessionManager()
 
